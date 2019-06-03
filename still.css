@@ -1,0 +1,20 @@
+body{background-image:url("bg.jpg");
+	 background-attachment:fixed;
+}
+
+#nav li { 
+font:50px,Arial;
+display:inline;
+list-style-type:none;
+}
+#nav a {
+	padding:10px 53px;
+	background-color: #E5CA87;
+	color:#FFF;
+	text-decoration:none;
+}
+#nav a:hover {
+	background-color:#E5CA87;
+	color:#666;
+}
+ 
