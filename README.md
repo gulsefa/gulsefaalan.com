@@ -1,0 +1,2 @@
+# gulsefaalan.com
+Kişisel siye
